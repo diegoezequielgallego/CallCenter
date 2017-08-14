@@ -2,20 +2,20 @@
 
 Es un proyecto maven con SringBoot
 
-1- Se puede importar como un proyecto maven facilmente desde el idea o eclipse
+1- Se puede importar como un proyecto maven facilmente desde el idea o eclipse <br />
 2- Se puede correr desde el idea o del eclipse corriendolo como un proyecto maven 
-   y con el comando spring-boot:run 
+   y con el comando spring-boot:run <br />
 
 
-Tecnoligias:
--Spring Boot 1.4.3.RELEASE
--Spring 4.3.5.RELEASE [transitively]
--Spring data JPA 1.10.6.RELEASE [transitively]
--Hibernate 5.0.11.Final [transitively]
--MySQL 5.1.40 [transitively]
--H2 1.4.187
--Hikari CP 2.4.7 [transitively]
--AngularJS 1.5.8
--Maven 3.1
--JDK 1.8
--Junit 4.4
+Tecnoligias:<br />
+-Spring Boot 1.4.3.RELEASE<br />
+-Spring 4.3.5.RELEASE <br />
+-Spring data JPA 1.10.6.RELEASE <br />
+-Hibernate 5.0.11.Final <br />
+-MySQL 5.1.40<br />
+-H2 1.4.187<br />
+-Hikari CP 2.4.7 <br />
+-AngularJS 1.5.8<br />
+-Maven 3.1<br />
+-JDK 1.8<br />
+-Junit 4.4<br />
