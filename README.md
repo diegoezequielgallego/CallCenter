@@ -6,6 +6,8 @@ Es un proyecto maven con SringBoot
 2- Se puede correr desde el idea o del eclipse corriendolo como un proyecto maven 
    y con el comando spring-boot:run <br />
 3- Se debe compilar con java 1.8 <br />
+4- Una vez levantado el server la url es http://localhost:8090/almundoTest <br />
+
 
 
 Tecnoligias:<br />
