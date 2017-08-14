@@ -5,6 +5,7 @@ Es un proyecto maven con SringBoot
 1- Se puede importar como un proyecto maven facilmente desde el idea o eclipse <br />
 2- Se puede correr desde el idea o del eclipse corriendolo como un proyecto maven 
    y con el comando spring-boot:run <br />
+3- Se debe compilar con java 1.8 <br />
 
 
 Tecnoligias:<br />
