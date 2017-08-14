@@ -7,6 +7,10 @@ Es un proyecto maven con SringBoot
    y con el comando spring-boot:run <br />
 3- Se debe compilar con java 1.8 <br />
 4- Una vez levantado el server la url es http://localhost:8090/almundoTest <br />
+5- Si bien en la Home Muestra las llamadas por quienes fueron atendidas, en la consola del Eclipse o Idea <br />
+   se puede ver con mas detalle el proceso mientras corre, llamadas que quedaron en espera, y como <br />
+   procesa hasta 10 llamadas al mismo tiempo <br />
+
 
 
 
