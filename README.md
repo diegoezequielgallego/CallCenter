@@ -1,6 +1,6 @@
 # almundoApp
 
-Es un proyecto maven con SringBoot
+Es un proyecto maven con SpringBoot
 
 1- Se puede importar como un proyecto maven facilmente desde el idea o eclipse <br />
 2- Se puede correr desde el idea o del eclipse corriendolo como un proyecto maven 
